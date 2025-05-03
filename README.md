@@ -31,7 +31,11 @@ This asset is crafted to provide developers with a robust and flexible character
 ## _
 ## Firstperson & Thirdperson Open-world MMO survival Game [<ins>*2018*</ins>]
 ## _
+## Music composition bundle (Kit/Pack) [<ins>*2023*</ins>]
+## _
 ## Procedural City/Town Generation + Building/Structure generation (Unity Asset) [<ins>*2019*</ins>]
+## _
+## Sound effect bundle (Kit/Pack) [<ins>*2024*</ins>]
 ## _
 ## Multiplayer Classic FPS sniper Game [<ins>*2015*</ins>]
 
