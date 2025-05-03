@@ -29,6 +29,5 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 
 # YouTube Channel
 ![header-youtubeview](https://github.com/user-attachments/assets/bff3f4b4-c839-4635-9e54-26a927b1ef50)
-I have a YouTube channel with over **30,000 views** where I taught my viewers basic subjects related to game programming in the C# coding language.
-You can visit my channel here: www.Youtube.com/DevMogul
+### I have a YouTube channel with over **30,000 views** where I taught my viewers basic subjects related to game programming in the C# coding language. You can visit my channel here: www.Youtube.com/DevMogul
 
