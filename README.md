@@ -1,6 +1,3 @@
-> [!NOTE]
-> Latest update: 2025
-
 # Camren A. | Portfolio (game development)
 
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive.
