@@ -4,8 +4,6 @@
 # Camren A. | Portfolio (game programmer)
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive. I specialize in **Unity and C#**, balancing gameplay feel with technical polish. Over the years I’ve tackled **audio programming**, multiplayer networking, **custom physics systems**, and more — always refining my skills through hands‑on projects and creative problem solving. My perfectionist nature drives me to become **aware of the details** and deliver polished results.
 ## [HOME](#home) | [PROJECTS](#recent-projects) | [CONTACT](#contact-information) | [MORE](#external-links-) 
-### Contact Information
-📫 For commisions or general inquires reach out to me via email at <ins>camrenaashby@gmail.com</ins>
 
 # _
 # Recent Projects 
@@ -57,6 +55,7 @@ This project began as a necessity for a game I was developing, leading me to cre
 
 # _
 [↑ Back to Top](#home)
-
+### Contact Information
+📫 For commisions or general inquires reach out to me via email at <ins>camrenaashby@gmail.com</ins>
 
 
