@@ -37,7 +37,8 @@ This asset is crafted to provide developers with a robust and flexible character
 ![Screenshot 2025-05-03 125523](https://github.com/user-attachments/assets/bf35ceef-72ba-4efe-a712-e375e4edbd45)
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
-## Firstperson & Thirdperson Open-world MMO survival Game [<ins>*2021*</ins>]
+## Open-world MMO survival Game [<ins>*2021*</ins>]
+![Screenshot 2025-05-03 133615](https://github.com/user-attachments/assets/ce402ad5-d434-4f41-8076-5c082f67ccb1)
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
 ## Music composition bundle (Kit/Pack) [<ins>*2022*</ins>]
