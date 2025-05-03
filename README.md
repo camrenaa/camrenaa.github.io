@@ -30,7 +30,7 @@ This asset is crafted to provide developers with a robust and flexible character
 ## _
 ## Firstperson & Thirdperson Open-world MMO survival Game [<ins>*2018*</ins>]
 ## _
-## Procedural City/Town Generation + Procedural Building/Structure generation (Unity Asset) [<ins>*2019*</ins>]
+## Procedural City/Town Generation + Building/Structure generation (Unity Asset) [<ins>*2019*</ins>]
 ## _
 ## Multiplayer Classic FPS sniper Game [<ins>*2015*</ins>]
 
