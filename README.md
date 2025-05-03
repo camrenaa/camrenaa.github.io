@@ -12,7 +12,7 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 
 # _
 # Recent Projects 
-## Modular Character Controller (Unity Asset) [<ins>*partially-completed*</ins>]
+## Modular Character Controller (Unity Asset) [<ins>*2025*</ins>]
 This project began as a necessity for a game I was developing, leading me to create a Unity Asset utilizing code I originally wrote in 2015. The result is a comprehensive character controller system featuring unique and advanced functionalities. Initially, the controller lacked a dynamic feel, to address this, I developed my signature version of a "headbob" & animation system. Today, it's clearly evolved into a fully modular first-person and third-person character controller that can definately compete with other similar modern day systems.
 ### Key Features :
 + <ins>Modular Design</ins> : Easily switch between first-person and third-person perspectives, everything can be modified to the users desired look & feel.
@@ -22,15 +22,15 @@ This project began as a necessity for a game I was developing, leading me to cre
 This asset is crafted to provide developers with a robust and flexible character controller, streamlining the development process and enhancing gameplay experience.
 ### To view more information about this project, click the link [here](https://camrenaa.github.io/)
 ## _
-## Digital Audio Workstation (DAW) Game [<ins>*in-progress*</ins>]
+## Digital Audio Workstation (DAW) Game [<ins>*2024*</ins>]
 ## _
-## Advanced Footstep System (Unity Asset) [<ins>*partially-completed*</ins>]
+## Advanced Footstep System (Unity Asset) [<ins>*2019*</ins>]
 ## _
-## Multiplayer 2D Platformer Shooter Arcade Game [<ins>*haulted*</ins>]
+## Multiplayer 2D Platformer Shooter Arcade Game [<ins>*2023*</ins>]
 ## _
-## Firstperson & Thirdperson Open-world MMO survival Game [<ins>*haulted*</ins>]
+## Firstperson & Thirdperson Open-world MMO survival Game [<ins>*2018*</ins>]
 ## _
-## Multiplayer Classic FPS sniper Game [<ins>*haulted*</ins>]
+## Multiplayer Classic FPS sniper Game [<ins>*2015*</ins>]
 
 # _
 ### External Links :
