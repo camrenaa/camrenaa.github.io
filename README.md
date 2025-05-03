@@ -21,8 +21,8 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 + For commisions or general inquires reach out to me via email at camrenaashby@gmail.com
 
 # Recent Projects 
-### Character Controller (Unity Asset) *in-progress*
-### Digital Audio Workstation (DAW) Game *in-progress*
-### Multiplayer 2D Platformer Shooter Arcade Game *haulted*
-### Firstperson & Thirdperson Open-world MMO survival Game *haulted*
-### Multiplayer Classic FPS sniper Game *haulted*
+### Character Controller (Unity Asset) [*in-progress*]
+### Digital Audio Workstation (DAW) Game [*in-progress*]
+### Multiplayer 2D Platformer Shooter Arcade Game [*haulted*]
+### Firstperson & Thirdperson Open-world MMO survival Game [*haulted*]
+### Multiplayer Classic FPS sniper Game [*haulted*]
