@@ -22,13 +22,15 @@ This project began as a necessity for a game I was developing, leading me to cre
 This asset is crafted to provide developers with a robust and flexible character controller, streamlining the development process and enhancing gameplay experience.
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
-## Digital Audio Workstation (DAW) Game [<ins>*2024*</ins>]
+## Unity Digital Audio Workstation (DAW) Game [<ins>*2024*</ins>]
 ## _
 ## Advanced Footstep System (Unity Asset) [<ins>*2019*</ins>]
 ## _
 ## Multiplayer 2D Platformer Shooter Arcade Game [<ins>*2023*</ins>]
 ## _
 ## Firstperson & Thirdperson Open-world MMO survival Game [<ins>*2018*</ins>]
+## _
+## Procedural City Generation (Unity Asset) [<ins>*2019*</ins>]
 ## _
 ## Multiplayer Classic FPS sniper Game [<ins>*2015*</ins>]
 
