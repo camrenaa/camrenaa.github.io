@@ -15,11 +15,19 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 
 # _
 # Recent Projects 
-### Character Controller (Unity Asset) [<ins>*in-progress*</ins>]
-### Digital Audio Workstation (DAW) Game [<ins>*in-progress*</ins>]
-### Multiplayer 2D Platformer Shooter Arcade Game [<ins>*haulted*</ins>]
-### Firstperson & Thirdperson Open-world MMO survival Game [<ins>*haulted*</ins>]
-### Multiplayer Classic FPS sniper Game [<ins>*haulted*</ins>]
+## Character Controller (Unity Asset) [<ins>*in-progress*</ins>]
+This project began as a necessity for a game I was developing, leading me to create a Unity Asset utilizing code I originally wrote in 2015. The result is a comprehensive character controller system featuring unique and advanced functionalities. Initially, the controller lacked a dynamic feel. To address this, I developed my own signature version of a "headbob" system, a separate project I began working on at age 15 (2015). Now, a decade later, it's evolved into a fully modular first-person and third-person character controller.
+### Key Features :
++ <ins>Modular Design</ins> : Easily switch between first-person and third-person perspectives, everything can be modified to the users desired look & feel.
++ <ins>Procedural Viewmodel Generation</ins> : Automatically generates first-person viewmodels and animations from any 3D character model, utilizes inverse-kinematics to polish the experience.
++ <ins>Advanced Custom Movement Mechanics</ins> : The user can essentially create custom movements beyond the traditional crouch, prone, jump, sprint, etc.
++ <ins>User-Friendly Integration</ins> : Designed for seamless integration into various game projects, reducing setup time.
+This asset is crafted to provide developers with a robust and flexible character controller, streamlining the development process and enhancing gameplay experience ## (To view more information about this project, click the link [here](https://camrenaa.github.io/).
+
+## Digital Audio Workstation (DAW) Game [<ins>*in-progress*</ins>]
+## Multiplayer 2D Platformer Shooter Arcade Game [<ins>*haulted*</ins>]
+## Firstperson & Thirdperson Open-world MMO survival Game [<ins>*haulted*</ins>]
+## Multiplayer Classic FPS sniper Game [<ins>*haulted*</ins>]
 
 # _
 ### External Links :
