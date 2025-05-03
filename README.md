@@ -1,6 +1,6 @@
 # Camren A. | Portfolio (game development)
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive.
-## [Home](https://camrenaa.github.io/)) [Projects](https://camrenaa.github.io/#recent-projects) [Misc.](https://camrenaa.github.io/#external-links-))
+## [HOME](https://camrenaa.github.io/) | [PROJECTS](https://camrenaa.github.io/#recent-projects) | [CONTACT](https://camrenaa.github.io/#external-links-)
 
 
 # _
