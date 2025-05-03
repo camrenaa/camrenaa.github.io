@@ -1,8 +1,10 @@
+<a name="Home"></a>
+
 > Last updated: 2025 | This page is my portfolio/showcase of my recent work (for my resume [click here]())
 
 # Camren A. | Portfolio (game programmer)
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive. I specialize in **Unity and C#**, balancing gameplay feel with technical polish. Over the years I’ve tackled **audio programming**, multiplayer networking, **custom physics systems**, and more — always refining my skills through hands‑on projects and creative problem solving. My perfectionist nature drives me to become **aware of the details** and deliver polished results.
-## [HOME](https://camrenaa.github.io/) | [PROJECTS](https://camrenaa.github.io/#recent-projects) | [CONTACT](https://camrenaa.github.io/#contact-information) | [MORE](https://camrenaa.github.io/#external-links-) 
+## [HOME](#home) | [PROJECTS](#recent-projects) | [CONTACT](#contact-information) | [MORE](#external-links-) 
 
 ### Skills & Strengths :
 + <ins>Unity & C# (CSharp)</ins> : Modular architecture, editor scripting, **custom .DLL files to extend game engine features**, ecryption & obfuscation, procedural generation, etc.
@@ -67,6 +69,9 @@ This asset is crafted to provide developers with a robust and flexible character
 # YouTube Channel
 ![header-youtubeview](https://github.com/user-attachments/assets/bff3f4b4-c839-4635-9e54-26a927b1ef50)
 ### I have a YouTube channel with over **30,000 views** where I taught my viewers basic subjects related to game programming in the C# coding language. You can visit my channel here: <ins>www.Youtube.com/DevMogul</ins>
+
+# _
+[↑ Back to Top](#home)
 
 
 
