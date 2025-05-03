@@ -4,6 +4,7 @@
 # Camren A. | Portfolio (game development)
 
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive.
+# 
 
 ### About Me:
 + I specialize in **Unity and C#**, balancing gameplay feel with technical polish. Over the years I’ve tackled **audio programming**, multiplayer networking, **custom physics systems**, and more — always refining my skills through hands‑on projects and creative problem solving. My perfectionist nature drives me to become **aware of the details** and deliver polished results.
@@ -19,10 +20,8 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 
 + <ins>Audio/Sound</ins> : Mixing, mastering, design, recording, producing, composing, programming etc.
 
-
-### 📫 Get in Touch:
-For commisions or general inquires reach out to me via email at <ins>camrenaashby@gmail.com</ins>
-
+### 📫 For commisions or general inquires reach out to me via email at <ins>camrenaashby@gmail.com</ins>
+#
 # Recent Projects 
 ### Character Controller (Unity Asset) [<ins>*in-progress*</ins>]
 ### Digital Audio Workstation (DAW) Game [<ins>*in-progress*</ins>]
