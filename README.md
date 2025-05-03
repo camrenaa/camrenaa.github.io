@@ -24,7 +24,7 @@ This asset is crafted to provide developers with a robust and flexible character
 ## _
 ## Digital Audio Workstation (DAW) Game [<ins>*in-progress*</ins>]
 ## _
-## Dynamic Footstep System (Unity Asset) [<ins>*completed*</ins>]
+## Texture based Footstep System (Unity Asset) [<ins>*completed*</ins>]
 ## _
 ## Multiplayer 2D Platformer Shooter Arcade Game [<ins>*haulted*</ins>]
 ## _
