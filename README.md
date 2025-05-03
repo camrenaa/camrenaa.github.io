@@ -13,7 +13,7 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 ### 📫 For commisions or general inquires reach out to me via email at <ins>camrenaashby@gmail.com</ins>
 
 # _
-# Recent Projects 
+# Recent Solo Projects 
 ## Advanced Character Controller (Unity Asset) [<ins>*2025*</ins>]
 ![Screenshot 2025-05-03 122024](https://github.com/user-attachments/assets/e3c676e2-6e5a-4ba7-a0fb-605d00ec6eb9)
 This project began as a necessity for a game I was developing, leading me to create a Unity Asset utilizing code I originally wrote in 2015. The result is a comprehensive character controller system featuring unique and advanced functionalities. Initially, the controller lacked a dynamic feel, to address this, I developed my signature version of a "headbob" & animation system. Today, it's clearly evolved into a fully modular first-person and third-person character controller that can definately compete with other similar modern day systems.
