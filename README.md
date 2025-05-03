@@ -20,14 +20,14 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 ### 📫 Get in Touch:
 + For commisions or general inquires reach out to me via email at <ins>camrenaashby@gmail.com</ins>
 
-# My Recent Projects 
-### Character Controller (Unity Asset) [*in-progress*]
-### Digital Audio Workstation (DAW) Game [*in-progress*]
-### Multiplayer 2D Platformer Shooter Arcade Game [*haulted*]
-### Firstperson & Thirdperson Open-world MMO survival Game [*haulted*]
-### Multiplayer Classic FPS sniper Game [*haulted*]
+# Recent Projects 
+### Character Controller (Unity Asset) [<ins>*in-progress*</ins>]
+### Digital Audio Workstation (DAW) Game [<ins>*in-progress*</ins>]
+### Multiplayer 2D Platformer Shooter Arcade Game [<ins>*haulted*</ins>]
+### Firstperson & Thirdperson Open-world MMO survival Game [<ins>*haulted*</ins>]
+### Multiplayer Classic FPS sniper Game [<ins>*haulted*</ins>]
 
-# My YouTube Channel
+# YouTube Channel
 ![header-youtubeview](https://github.com/user-attachments/assets/bff3f4b4-c839-4635-9e54-26a927b1ef50)
 I have a YouTube channel with over **30,000 views** where I taught my viewers basic subjects related to game programming in the C# coding language.
 You can visit my channel here: www.Youtube.com/DevMogul
