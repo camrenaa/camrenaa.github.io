@@ -22,7 +22,7 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 ### Multiplayer Classic FPS sniper Game [<ins>*haulted*</ins>]
 
 #
-# Miscellaneous
+# 
 ### External Links :
 + <ins>YouTube</ins> : http://www.YouTube.com/DevMogul/
   
