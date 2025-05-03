@@ -13,7 +13,7 @@ This project began as a necessity for a game I was developing, leading me to cre
 ## _
 ## Unity Digital Audio Workstation (DAW) Game [<ins>*2024*</ins>]
 ![Screenshot 2025-05-03 124032](https://github.com/user-attachments/assets/a87e56a0-6964-4d97-931b-d902f9b15e45)
-### To view more information about this project + demo, click the link [here]()
+### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/UnityDAW/)
 ## _
 ## Multiplayer 2D Platformer Shooter Arcade Game [<ins>*2023*</ins>]
 ![Screenshot 2025-05-03 174558](https://github.com/user-attachments/assets/070dfc62-a8aa-4b40-815d-edacfe59d90e)
@@ -21,7 +21,7 @@ This project began as a necessity for a game I was developing, leading me to cre
 ## _
 ## Advanced Footstep System (Unity Asset) [<ins>*2019*</ins>]
 ![Screenshot 2025-05-03 125523](https://github.com/user-attachments/assets/bf35ceef-72ba-4efe-a712-e375e4edbd45)
-### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
+### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/FootstepSystem)
 ## _
 ## Open-world MMO survival Game [<ins>*2021*</ins>]
 ![Screenshot 2025-05-03 133615](https://github.com/user-attachments/assets/ce402ad5-d434-4f41-8076-5c082f67ccb1)
