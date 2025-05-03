@@ -1,7 +1,7 @@
 # Camren A. | Portfolio (game development)
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive.
 
-# |
+# _
 ### About Me :
 + I specialize in **Unity and C#**, balancing gameplay feel with technical polish. Over the years I’ve tackled **audio programming**, multiplayer networking, **custom physics systems**, and more — always refining my skills through hands‑on projects and creative problem solving. My perfectionist nature drives me to become **aware of the details** and deliver polished results.
 
@@ -13,7 +13,7 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 + <ins>Audio/Sound</ins> : Mixing, mastering, design, recording, producing, composing, programming etc.
 ### 📫 For commisions or general inquires reach out to me via email at <ins>camrenaashby@gmail.com</ins>
 
-# |
+# _
 # Recent Projects 
 ### Character Controller (Unity Asset) [<ins>*in-progress*</ins>]
 ### Digital Audio Workstation (DAW) Game [<ins>*in-progress*</ins>]
@@ -21,11 +21,11 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 ### Firstperson & Thirdperson Open-world MMO survival Game [<ins>*haulted*</ins>]
 ### Multiplayer Classic FPS sniper Game [<ins>*haulted*</ins>]
 
-# |
+# _
 ### External Links :
 + <ins>YouTube</ins> : http://www.YouTube.com/DevMogul/
   
-# |
+# _
 # YouTube Channel
 ![header-youtubeview](https://github.com/user-attachments/assets/bff3f4b4-c839-4635-9e54-26a927b1ef50)
 ### I have a YouTube channel with over **30,000 views** where I taught my viewers basic subjects related to game programming in the C# coding language. You can visit my channel here: <ins>www.Youtube.com/DevMogul</ins>
