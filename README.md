@@ -1,4 +1,4 @@
-> Last updated: 2025 (Click here to [download my resume]())
+> Last updated: 2025 | This page is my portfolio/showcase of my work (Click here to [download my resume]())
 > 
 # Camren A. | Portfolio (game programmer)
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive. I specialize in **Unity and C#**, balancing gameplay feel with technical polish. Over the years I’ve tackled **audio programming**, multiplayer networking, **custom physics systems**, and more — always refining my skills through hands‑on projects and creative problem solving. My perfectionist nature drives me to become **aware of the details** and deliver polished results.
