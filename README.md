@@ -15,7 +15,7 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 
 + <ins>Optimization & polish</ins> : Profiling, memory management, smooth real‑time performance, etc.
 
-+ <ins>Visual Design</ins> : UI/UX layouts, 2D/3D asset creation, cohesive graphic elements, etc.
++ <ins>Graphics/Visuals</ins> : UI/UX layouts, 2D/3D asset creation, cohesive graphic elements, etc.
 
 + <ins>Audio/Sound</ins> : Mixing, mastering, design, recording, producing, composing, programming etc.
 
