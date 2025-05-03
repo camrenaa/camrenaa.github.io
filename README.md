@@ -42,6 +42,7 @@ This asset is crafted to provide developers with a robust and flexible character
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
 ## Music composition bundle (Kit/Pack) [<ins>*2022*</ins>]
+![Screenshot 2025-05-03 134826](https://github.com/user-attachments/assets/7e230ee8-9e8c-4a25-b7f7-91dd75e3fa74)
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
 ## Procedural City/Town Generation (Unity Asset) [<ins>*2019*</ins>]
@@ -49,9 +50,11 @@ This asset is crafted to provide developers with a robust and flexible character
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
 ## Sound effect bundle (Kit/Pack) [<ins>*2025*</ins>]
+![Screenshot 2025-05-03 134035](https://github.com/user-attachments/assets/62327900-aedd-4fde-bd07-46b4825bb30c)
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
 ## Multiplayer Classic FPS sniper Game [<ins>*2015*</ins>]
+![Screenshot 2025-05-03 134225](https://github.com/user-attachments/assets/a2d6a0c2-32ad-4dda-8b56-5407bba69170)
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 
 # _
