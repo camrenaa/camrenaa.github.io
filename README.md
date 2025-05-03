@@ -22,7 +22,8 @@ This project began as a necessity for a game I was developing, leading me to cre
 + <ins>Procedural Viewmodel Generation</ins> : Automatically generates first-person viewmodels and animations from any 3D character model, utilizes inverse-kinematics to polish the experience.
 + <ins>Advanced Custom Movement Mechanics</ins> : The user can essentially create custom movements beyond the traditional crouch, prone, jump, sprint, etc.
 + <ins>User-Friendly Integration</ins> : Designed for seamless integration into various game projects, reducing setup time.
-This asset is crafted to provide developers with a robust and flexible character controller, streamlining the development process and enhancing gameplay experience ## (To view more information about this project, click the link [here](https://camrenaa.github.io/).
+This asset is crafted to provide developers with a robust and flexible character controller, streamlining the development process and enhancing gameplay experience.
+### To view more information about this project, click the link [here](https://camrenaa.github.io/)
 
 ## Digital Audio Workstation (DAW) Game [<ins>*in-progress*</ins>]
 ## Multiplayer 2D Platformer Shooter Arcade Game [<ins>*haulted*</ins>]
