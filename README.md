@@ -21,11 +21,11 @@ This project began as a necessity for a game I was developing, leading me to cre
 ## _
 ## Advanced Footstep System (Unity Asset) [<ins>*2019*</ins>]
 ![Screenshot 2025-05-03 125523](https://github.com/user-attachments/assets/bf35ceef-72ba-4efe-a712-e375e4edbd45)
-### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/FootstepSystem)
+### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/FootstepSystem/)
 ## _
 ## Open-world MMO survival Game [<ins>*2021*</ins>]
 ![Screenshot 2025-05-03 133615](https://github.com/user-attachments/assets/ce402ad5-d434-4f41-8076-5c082f67ccb1)
-### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
+### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/SurvivalGame/)
 ## _
 ## Music composition bundle (Kit/Pack) [<ins>*2022*</ins>]
 ![Screenshot 2025-05-03 134826](https://github.com/user-attachments/assets/7e230ee8-9e8c-4a25-b7f7-91dd75e3fa74)
