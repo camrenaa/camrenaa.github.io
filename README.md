@@ -18,7 +18,7 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 + <ins>Visual Design:</ins> UI/UX layouts, 2D/3D asset creation, cohesive graphic elements, etc.
 
 ### 📫 Get in Touch:
-+ For commisions or general inquires reach out to me via email at camrenaashby@gmail.com
++ For commisions or general inquires reach out to me via email at <ins>camrenaashby@gmail.com</ins>
 
 # My Recent Projects 
 ### Character Controller (Unity Asset) [*in-progress*]
