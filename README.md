@@ -17,6 +17,9 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 
 + <ins>Visual Design:</ins> UI/UX layouts, 2D/3D asset creation, cohesive graphic elements, etc.
 
++ <ins>Audio:</ins> Mixing, mastering, design, recording, producing, composing, programming etc.
+
+
 ### 📫 Get in Touch:
 For commisions or general inquires reach out to me via email at <ins>camrenaashby@gmail.com</ins>
 
