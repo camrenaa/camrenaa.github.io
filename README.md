@@ -26,7 +26,7 @@ This project began as a necessity for a game I was developing, leading me to cre
 + <ins>Advanced Custom Movement Mechanics</ins> : The user can essentially create custom movements beyond the traditional crouch, prone, jump, sprint, etc.
 + <ins>User-Friendly Integration</ins> : Designed for seamless integration into various game projects, reducing setup time.
 This asset is crafted to provide developers with a robust and flexible character controller, streamlining the development process and enhancing gameplay experience.
-### To view more information about this project + demo, click the link [here]()
+### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/Possesst/)
 ## _
 ## Unity Digital Audio Workstation (DAW) Game [<ins>*2024*</ins>]
 ![Screenshot 2025-05-03 124032](https://github.com/user-attachments/assets/a87e56a0-6964-4d97-931b-d902f9b15e45)
