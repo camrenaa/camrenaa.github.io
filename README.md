@@ -1,4 +1,4 @@
-<a name="Home"></a>
+<a name="home"></a>
 > Last updated: 2025 | This page is my portfolio/showcase of my recent work (for my resume [click here]())
 
 # Camren A. | Portfolio (game programmer)
