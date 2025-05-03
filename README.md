@@ -24,6 +24,7 @@ This asset is crafted to provide developers with a robust and flexible character
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
 ## Unity Digital Audio Workstation (DAW) Game [<ins>*2024*</ins>]
+![Screenshot 2025-05-03 124032](https://github.com/user-attachments/assets/a87e56a0-6964-4d97-931b-d902f9b15e45)
 ## _
 ## Advanced Footstep System (Unity Asset) [<ins>*2019*</ins>]
 ## _
