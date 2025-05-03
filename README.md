@@ -1,8 +1,8 @@
-> 
+> Last updated: 2025 | This page is my portfolio/showcase of my recent work (for my resume [click here]())
+
 # Camren A. | Portfolio (game programmer)
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive. I specialize in **Unity and C#**, balancing gameplay feel with technical polish. Over the years I’ve tackled **audio programming**, multiplayer networking, **custom physics systems**, and more — always refining my skills through hands‑on projects and creative problem solving. My perfectionist nature drives me to become **aware of the details** and deliver polished results.
-## [HOME](https://camrenaa.github.io/) | [PROJECTS](https://camrenaa.github.io/#recent-projects) | [CONTACT](https://camrenaa.github.io/#external-links-)
-> Last updated: 2025 | This page is my portfolio/showcase of my recent work (for my resume [click here]())
+## [HOME](https://camrenaa.github.io/) | [PROJECTS](https://camrenaa.github.io/#recent-projects) | [CONTACT](https://camrenaa.github.io/#external-links-) 
 
 ### Skills & Strengths :
 + <ins>Unity & C# (CSharp)</ins> : Modular architecture, editor scripting, **custom .DLL files to extend game engine features**, ecryption & obfuscation, procedural generation, etc.
