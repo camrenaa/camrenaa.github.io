@@ -5,7 +5,6 @@
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive. I specialize in **Unity and C#**, balancing gameplay feel with technical polish. Over the years I’ve tackled **audio programming**, multiplayer networking, **custom physics systems**, and more — always refining my skills through hands‑on projects and creative problem solving. My perfectionist nature drives me to become **aware of the details** and deliver polished results.
 ## [HOME](#home) | [PROJECTS](#recent-projects) | [CONTACT](#contact-information) | [MORE](#external-links-) 
 
-# _
 # Recent Projects 
 ## Advanced Character Controller (Unity Asset) [<ins>*2025*</ins>]
 ![Screenshot 2025-05-03 122024](https://github.com/user-attachments/assets/e3c676e2-6e5a-4ba7-a0fb-605d00ec6eb9)
