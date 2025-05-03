@@ -17,7 +17,7 @@ This project began as a necessity for a game I was developing, leading me to cre
 ## _
 ## Multiplayer 2D Platformer Shooter Arcade Game [<ins>*2023*</ins>]
 ![Screenshot 2025-05-03 174558](https://github.com/user-attachments/assets/070dfc62-a8aa-4b40-815d-edacfe59d90e)
-### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
+### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/2DShooter)
 ## _
 ## Advanced Footstep System (Unity Asset) [<ins>*2019*</ins>]
 ![Screenshot 2025-05-03 125523](https://github.com/user-attachments/assets/bf35ceef-72ba-4efe-a712-e375e4edbd45)
