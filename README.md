@@ -1,5 +1,7 @@
 # Camren A. | Portfolio (game development)
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive.
+## [Home](https://camrenaa.github.io/)) [Projects](https://camrenaa.github.io/#recent-projects) [Misc.](https://camrenaa.github.io/#external-links-))
+
 
 # _
 ### About Me :
@@ -16,7 +18,7 @@ Hello, I’m **Camren** - a self‑taught game developer who’s been creating v
 # _
 # Recent Projects 
 ## Character Controller (Unity Asset) [<ins>*in-progress*</ins>]
-This project began as a necessity for a game I was developing, leading me to create a Unity Asset utilizing code I originally wrote in 2015. The result is a comprehensive character controller system featuring unique and advanced functionalities. Initially, the controller lacked a dynamic feel. To address this, I developed my own signature version of a "headbob" system, a separate project I began working on at age 15 (2015). Now, a decade later, it's evolved into a fully modular first-person and third-person character controller.
+This project began as a necessity for a game I was developing, leading me to create a Unity Asset utilizing code I originally wrote in 2015. The result is a comprehensive character controller system featuring unique and advanced functionalities. Initially, the controller lacked a dynamic feel. To address this, I developed my own signature version of a "headbob" system, a separate project I began working on at age 15 (2015). Today, it's clearly evolved into a fully modular first-person and third-person character controller that can definately compete with other similar modern day systems.
 ### Key Features :
 + <ins>Modular Design</ins> : Easily switch between first-person and third-person perspectives, everything can be modified to the users desired look & feel.
 + <ins>Procedural Viewmodel Generation</ins> : Automatically generates first-person viewmodels and animations from any 3D character model, utilizes inverse-kinematics to polish the experience.
