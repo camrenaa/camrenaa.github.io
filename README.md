@@ -41,7 +41,7 @@ This asset is crafted to provide developers with a robust and flexible character
 ## Music composition bundle (Kit/Pack) [<ins>*2022*</ins>]
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
-## Procedural City/Town Generation + Building/Structure generation (Unity Asset) [<ins>*2019*</ins>]
+## Procedural City/Town Generation (Unity Asset) [<ins>*2019*</ins>]
 ![Screenshot 2025-05-03 130028](https://github.com/user-attachments/assets/d7958be2-63eb-464c-bb4f-815b2bb89969)
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
