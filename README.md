@@ -15,14 +15,14 @@ This project showcases my experience with 3D physics, inverse-kinematics (IK), a
 ## Unity Digital Audio Workstation (DAW) Game
 ![Screenshot 2025-05-03 124032](https://github.com/user-attachments/assets/a87e56a0-6964-4d97-931b-d902f9b15e45)
 
-This project showcases my experience with audio programming, Binary file saving/loading, Unity Events, C++ VST3 plugin hosting, ' .WAV ' file configuration, generate new audio files using procedural generation, and mastery of UI/UX systems. I
+This project showcases my experience with audio programming, local directory searching, .NET Core, Binary file saving/loading, photoshop, video editing, Unity Events, databases, C++ VST3 plugin hosting, ' .WAV ' file configuration, generate new audio files using procedural generation, and mastery of UI/UX systems. I
 took Unity's UI system and created a software, since it's powered by Unity this allows unlimited possibilities for visuals. You can make any type of song you would like and browse your local files for use in a project. Everything is generated on the fly upon playing the application and I always make my scripts fully modular so they can be easily modifed, also I write proper documentation for every system I create to "future-proof" the components of a project, I create every script in a way that potential future depreciation of unity components won't affect the project much, kinda like a stop loss (less errors due to depreciation). Original project was created in 2019, but I have restarted the project from scractch many times, doubling down on my audio programming experience. I had to learn C & C++ basics to get VST3 plugins to work, I also had to utilize a .NET Core console backend to handle all the buffer data. Use of libraries are minimal to none to reduce potential threat of errors after update.
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/UnityDAW/)
 ## _
 ## Multiplayer 2D Platformer Shooter Arcade Game 
 ![Screenshot 2025-05-03 174558](https://github.com/user-attachments/assets/070dfc62-a8aa-4b40-815d-edacfe59d90e)
 
-This project showcases my ability to create a multiplayer game and a immersive 2D experience using 2D physics. The multiplayer originally utilized Photon Networking asset, but later i created a dedicated server system using a (.dll) file which stored my custom networking library code. Everything is built from scratch. Everything is generated on the fly upon playing the application and I always make my scripts fully modular so they can be easily modifed, also I write proper documentation for every system I create to "future-proof" the components of a project, I create every script in a way that potential future depreciation of unity components won't affect the project much, kinda like a stop loss (less errors due to depreciation). Use of libraries are minimal to none to reduce potential threat of errors after update.
+This project showcases my ability to create a multiplayer game and a immersive 2D experience using 2D physics, i had to utilize MySQL for the player login/registering. The multiplayer originally utilized Photon Networking asset, but later i created a dedicated server system using a (.dll) file which stored my custom networking library code. Everything is built from scratch. Everything is generated on the fly upon playing the application and I always make my scripts fully modular so they can be easily modifed, also I write proper documentation for every system I create to "future-proof" the components of a project, I create every script in a way that potential future depreciation of unity components won't affect the project much, kinda like a stop loss (less errors due to depreciation). Use of libraries are minimal to none to reduce potential threat of errors after update.
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/2DShooter)
 ## _
 ## Open-world MMO survival Game
@@ -46,25 +46,25 @@ This project showcases my skills with fractals, & procedural generation, as for 
 ## Multiplayer Classic FPS sniper Game
 ![Screenshot 2025-05-03 134225](https://github.com/user-attachments/assets/a2d6a0c2-32ad-4dda-8b56-5407bba69170)
 
-This was the first project i attempted to publish, the project that started my journey on tackling steam. For this i had to utilize my own custom character controller,  Everything is generated on the fly upon playing the application and I always make my scripts fully modular so they can be easily modifed, also I write proper documentation for every system I create to "future-proof" the components of a project, I create every script in a way that potential future depreciation of unity components won't affect the project much, kinda like a stop loss (less errors due to depreciation). Use of libraries are minimal to none to reduce potential threat of errors after update.
+This was the first project i attempted to publish, the project that started my journey on tackling steam. For this i had to utilize my own custom character controller, wepaon mechanics, FPS mechanics, and FPS game loop/quality of life. Everything is generated on the fly upon playing the application and I always make my scripts fully modular so they can be easily modifed, also I write proper documentation for every system I create to "future-proof" the components of a project, I create every script in a way that potential future depreciation of unity components won't affect the project much, kinda like a stop loss (less errors due to depreciation). Use of libraries are minimal to none to reduce potential threat of errors after update.
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
 ## Developer Console System w/ Custom commands
 ![Screenshot 2025-05-03 134826](https://github.com/user-attachments/assets/7e230ee8-9e8c-4a25-b7f7-91dd75e3fa74)
 
-Everything is generated on the fly upon playing the application and I always make my scripts fully modular so they can be easily modifed, also I write proper documentation for every system I create to "future-proof" the components of a project, I create every script in a way that potential future depreciation of unity components won't affect the project much, kinda like a stop loss (less errors due to depreciation). Use of libraries are minimal to none to reduce potential threat of errors after update.
+This project showcases my skills with Unity Events and referencing external code from within & beyond Unity. This tool allows the user to create custom commands attached to methods that can be called when typed into the devloper console pop-up UI. Everything is generated on the fly upon playing the application and I always make my scripts fully modular so they can be easily modifed, also I write proper documentation for every system I create to "future-proof" the components of a project, I create every script in a way that potential future depreciation of unity components won't affect the project much, kinda like a stop loss (less errors due to depreciation). Use of libraries are minimal to none to reduce potential threat of errors after update.
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
-## Music composition bundle (Kit/Pack)
+## Game Music composition bundle (Kit/Pack)
 ![Screenshot 2025-05-03 134826](https://github.com/user-attachments/assets/7e230ee8-9e8c-4a25-b7f7-91dd75e3fa74)
 
-Everything is generated on the fly upon playing the application and I always make my scripts fully modular so they can be easily modifed, also I write proper documentation for every system I create to "future-proof" the components of a project, I create every script in a way that potential future depreciation of unity components won't affect the project much, kinda like a stop loss (less errors due to depreciation). Use of libraries are minimal to none to reduce potential threat of errors after update.
+I have been composing music since 2014, I have thousands of sample tracks that can be altered to fit any videogame's music composition needs.
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 ## _
 ## Sound effect bundle (Kit/Pack) 
 ![Screenshot 2025-05-03 134035](https://github.com/user-attachments/assets/62327900-aedd-4fde-bd07-46b4825bb30c)
 
-Everything is generated on the fly upon playing the application and I always make my scripts fully modular so they can be easily modifed, also I write proper documentation for every system I create to "future-proof" the components of a project, I create every script in a way that potential future depreciation of unity components won't affect the project much, kinda like a stop loss (less errors due to depreciation). Use of libraries are minimal to none to reduce potential threat of errors after update.
+I can utilize my knowledge of digital synthesizers, foley, & audio programming to design custom crafted soudeffcts for immersive audio feel.
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
 
 # _
