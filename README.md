@@ -79,6 +79,6 @@ I use my knowledge of digital synthesizers, foley recording, and audio programmi
 # _
 [↑ Back to Top](#home)
 ### Contact Information
-📫 For commisions or general inquires reach out to me via email at <ins>[camrenaashby@gmail.com](camrenaashby@gmail.com)</ins>
+📫 For commisions or general inquires reach out to me via email at <ins>camrenaashby@gmail.com</ins>
 
 
