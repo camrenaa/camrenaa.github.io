@@ -27,7 +27,7 @@ This project demonstrates my ability to build a fully custom 2D multiplayer game
 ## Open-world MMO survival Game
 ![Screenshot 2025-05-03 133615](https://github.com/user-attachments/assets/ce402ad5-d434-4f41-8076-5c082f67ccb1)
 
-This project highlights my work in building complex systems such as active ragdolls, volumetric weather, time-of-day cycles, weapon mechanics, inventory, and crafting—entirely from scratch. I also developed a procedural world generation system and explored the structure of narrative-driven gameplay. Every component is dynamically generated at runtime, written with modularity and future-proofing in mind. My approach avoids heavy reliance on third-party libraries to ensure long-term stability and ease of updates.
+This project highlights my work in building complex systems such as active ragdolls, lighting, volumetric weather, time-of-day cycles, weapon mechanics, inventory, and crafting—entirely from scratch. I also developed a procedural world generation system and explored the structure of narrative-driven gameplay. Every component is dynamically generated at runtime, written with modularity and future-proofing in mind. My approach avoids heavy reliance on third-party libraries to ensure long-term stability and ease of updates.
 ### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/SurvivalGame/)
 ## _
 ## Advanced Footstep System (Unity Asset)
