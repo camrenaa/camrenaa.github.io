@@ -40,31 +40,31 @@ This system dynamically detects the texture beneath the player and plays the app
 ![Screenshot 2025-05-03 130028](https://github.com/user-attachments/assets/d7958be2-63eb-464c-bb4f-815b2bb89969)
 
 This project demonstrates my skills in procedural generation and fractal systems, including F-trees and Unity gizmos. Every object in the city is generated entirely from code—at the press of a button, a fully custom city forms instantly based on user-defined settings. The system is fully modular and built from scratch.
-### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
+### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/CityGeneration)
 ## _
 ## Multiplayer Classic FPS sniper Game
 ![Screenshot 2025-05-03 134225](https://github.com/user-attachments/assets/a2d6a0c2-32ad-4dda-8b56-5407bba69170)
 
 This was the first project I attempted to publish and marked the beginning of my journey toward releasing on Steam. I built a custom character controller, implemented weapon and FPS mechanics, and designed the full gameplay loop with player-focused quality-of-life features. Everything is generated dynamically at runtime, with modular scripts.
-### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
+### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/SniperFPS)
 ## _
 ## Developer Console System w/ Custom commands
 ![Screenshot 2025-05-03 134826](https://github.com/user-attachments/assets/7e230ee8-9e8c-4a25-b7f7-91dd75e3fa74)
 
 This project demonstrates my skills with Unity Events and referencing external code both inside and outside of Unity. I created a developer console tool that allows users to define and trigger custom commands via UI input, dynamically linking typed commands to methods. Everything is generated at runtime, with modular, well-documented scripts designed to be resilient.
-### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
+### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/DevConsole)
 ## _
 ## Game Music composition bundle (Kit/Pack)
 ![Screenshot 2025-05-03 134826](https://github.com/user-attachments/assets/7e230ee8-9e8c-4a25-b7f7-91dd75e3fa74)
 
 I’ve been composing music since 2014 and have built a personal library of thousands of sample tracks, ready to be customized and adapted to fit a wide range of video game styles and composition needs.
-### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
+### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/GameMusic)
 ## _
 ## Sound effect bundle (Kit/Pack) 
 ![Screenshot 2025-05-03 134035](https://github.com/user-attachments/assets/62327900-aedd-4fde-bd07-46b4825bb30c)
 
 I use my knowledge of digital synthesizers, foley recording, and audio programming to craft custom sound effects that enhance immersion and bring dynamic audio experiences to life.
-### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/)
+### To view more information about this project + demo, click the link [here](https://camrenaa.github.io/GameSound)
 
 # _
 ### External Links :
