@@ -2,10 +2,11 @@
 
 <a name="home"></a>
 # Camren A. | Portfolio (game designer / programmer)
+## [PROJECTS](#recent-projects) | [CONTACT](#contact-information) | [TUTORIALS](https://camrenaa.github.io/Tutorials/) | [RESUME](https://camrenaa.github.io/Resume/)
 ![87f3f1425b217691da645e97dbb50d55](https://github.com/user-attachments/assets/bd307ef1-caec-4141-b8c5-05924cd082bb)
 
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive. I specialize in **Unity and C#**, balancing gameplay feel with technical polish. Over the years I’ve tackled **audio programming**, multiplayer networking, **custom physics systems**, and more — always refining my skills through hands‑on projects and creative problem solving. My perfectionist nature drives me to become **aware of the details** and deliver polished results.
-## [PROJECTS](#recent-projects) | [CONTACT](#contact-information) | [TUTORIALS](https://camrenaa.github.io/Tutorials/) | [RESUME](https://camrenaa.github.io/Resume/)
+##_
 
 # Recent Projects 
 ## Advanced Character Controller (Unity Asset) 
