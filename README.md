@@ -70,7 +70,8 @@ I use my knowledge of digital synthesizers, foley recording, and audio programmi
 
 # _
 ### External Links :
-+ <ins>YouTube</ins> : http://www.YouTube.com/DevMogul/
++ [<ins>YouTube</ins>](http://www.YouTube.com/DevMogul/)
++ [<ins>LinkedIn</ins>](https://www.linkedin.com/in/camrenashby/)
   
 # _
 # YouTube Channel
