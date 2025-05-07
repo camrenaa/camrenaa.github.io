@@ -8,7 +8,7 @@
 Hello, I’m **Camren** - a self‑taught game developer who’s been creating videogame projects **since elementary school**. Now as an adult, I constantly channel that **lifelong passion** into crafting interactive worlds that feel truly alive. I specialize in **Unity and C#**, balancing gameplay feel with technical polish. Over the years I’ve tackled **audio programming**, multiplayer networking, **custom physics systems**, and more — always refining my skills through hands‑on projects and creative problem solving. My perfectionist nature drives me to become **aware of the details** and deliver polished results.
 
 # Recent Projects 
-## Advanced Character Controller (Unity Asset) 
+## [Advanced Character Controller (Unity Asset)](https://camrenaa.github.io/Possesst/)
 ![Screenshot 2025-05-03 122024](https://github.com/user-attachments/assets/e3c676e2-6e5a-4ba7-a0fb-605d00ec6eb9)
 
 This project showcases my experience with Unity’s Transform system, inverse kinematics, animation rigging, physics, raycasting, and custom editor scripting. I developed a fully modular first-person and third-person character controller that procedurally generates viewmodels, shadows, and animations from a single humanoid 3D model. To achieve this, I built my own head-bob system, implemented IK constraints, and wrote custom Unity Editor tools for fast setup. The controller was originally born out of necessity for a game I was developing and has since evolved into an advanced Unity asset that prioritizes modularity, performance, and long-term maintainability.
